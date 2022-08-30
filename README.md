@@ -1,8 +1,6 @@
 ### Hey! Me chamo Vitor 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 Graduação em Sistemas de informação 4/5
+- 🌱 Graduação em Sistemas de informação 4/8
 
 
 <div align="center">
