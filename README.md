@@ -1,6 +1,6 @@
 ### Hey! Me chamo Vitor 
 
-- 🌱 Graduação em Sistemas de informação 4/8
+- 🌱 Graduado em Sistemas de informação
 
 
 <div align="center">
